@@ -1,0 +1,48 @@
+{
+    "instrumentos": [{
+            "id": 1,
+            "idLoja": 1,
+            "nome": "Livro - A Culpa É Das Estrelas",
+            "assunto": "Ficção infantil / para adolescentes: ficção geral,Temas pessoais e/ou sociais de crianças / adolescentes: morte e luto,Ficção infantil / para adolescentes: histórias de relacionamento - romance, amor ou amizade",
+            "sinopse": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante — o que lhe dá a promessa de viver mais alguns anos —, o último capítulo de sua história foi escrito no momento do diagnóstico."
+        },
+        {
+            "id": 2,
+            "idLoja": 2,
+            "nome": "Livro - A Rainha Vermelha",
+            "assunto": "Literatura Estrangeira - Ficção Fantasiosa",
+            "sinopse": "O mundo de Mare Barrow é dividido pelo sangue: vermelho ou prateado. Mare e sua família são vermelhos: plebeus, humildes, destinados a servir uma elite prateada cujos poderes sobrenaturais os tornam quase deuses. Mare rouba o que pode para ajudar sua família a sobreviver e não tem esperanças de escapar do vilarejo miserável onde mora. Entretanto, numa reviravolta do destino, ela consegue um emprego no palácio real, onde, em frente ao rei e a toda a nobreza, descobre que tem um poder misterioso¿ Mas como isso seria possível, se seu sangue é vermelho?"
+        },
+        {
+            "id": 3,
+            "idLoja": 2,
+            "nome": "Livro - O Diário De Anne Frank",
+            "assunto": "Memórias,Biografia: geral,Estudos de gênero: mulheres e/ou meninas,Holocausto",
+            "sinopse": " O diário de Anne Frank, o depoimento da pequena Anne, morta pelos nazistas após passar anos escondida no sótão de uma casa em Amsterdã, ainda hoje emociona leitores no mundo inteiro. Suas anotações narram os sentimentos, os medos e as pequenas alegrias de uma menina judia que, como sua família, lutou em vão para sobreviver ao Holocausto."
+        },
+        {
+            "id": 4,
+            "idLoja": 1,
+            "nome": "Livro - É Assim Que Acaba",
+            "assunto": "Romance,Romance contemporâneo,Ficção da vida familiar",
+            "sinopse": "Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu a própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela. Quando os dois se apaixonam Lily se vê no meio de um relacionamento turbulento que não é o que ela esperava.Mas será que ela conseguirá enxergar isso, por mais doloroso que seja ?"
+        }
+    ],
+    "loja": [{
+            "id": 1,
+            "Loja": "Saraiva",
+            "Estado": "Minas Gerais",
+            "Cidade": "Juiz de Fora",
+            "Endereço": " Av. Presidente Itamar Franco, 3600 - Cascatinha",
+            "CEP": "36033-318"
+        },
+        {
+            "id": 2,
+            "Loja": "Papelaria Central",
+            "Estado": "Minas Gerais",
+            "Cidade": "Leopoldina",
+            "Endereço": "Praça João XXIII, 23 - Centro",
+            "CEP": "36700-000"
+        }
+    ]
+}
